@@ -4,3 +4,6 @@ Sets flags for cvars and remove FCVAR_CHEAT
 
 Requirements:
 garrysmod common: https://github.com/danielga/garrysmod_common
+
+Notes:
+Patterns removed for the safety of gmod
